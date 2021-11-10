@@ -1,7 +1,24 @@
-# tarot-narrative
-Tarot-based narrative generation
+# ex-tarot
 
-This is a proof of concept for using tarot cards as the basis of a narrative generation system
+## Project setup
+```
+npm install
+```
 
-This project was a collaboration between Anne Sullivan, Mirjam Palosaari Eladhari, and Michael Cook.
-You can read more about the project here: http://www.asdesigned.com/phd/TarotBasedNarrative.pdf
+### Compiles and hot-reloads for development
+```
+npm run serve
+```
+
+### Compiles and minifies for production
+```
+npm run build
+```
+
+### Lints and fixes files
+```
+npm run lint
+```
+
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
