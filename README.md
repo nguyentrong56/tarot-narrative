@@ -1,4 +1,4 @@
-# ex-tarot
+# ex-tarot with Deep AI 
 
 This is a project that extend tarot-narrative projct of annetropy from GitHub.
 
