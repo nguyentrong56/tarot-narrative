@@ -22,7 +22,7 @@
             
                 <v-card>
 
-                <v-card-title class="justify-center" > Welcome to Tarot Based Story Generation. This is a platform to generate a movie-like story with the help of Tarot card system and Deep AI framework. The system would extract meaning from the cards then use AI to extend the meaning. We hope you will enjoy this. -Trong Nguyen-  </v-card-title>
+                <v-card-title class="justify-center" > Welcome to Tarot Story Generation Platform . We hope you will enjoy this  </v-card-title>
                 </v-card>
               
                  </v-col>
